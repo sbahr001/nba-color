@@ -1,6 +1,8 @@
-# NBA Color
-> Get all NBA team's color code (Hex or RGB).<br>
-> Useful for building NBA-related colorful product.
+# NHL Color
+> Get all NHL team's color code (Hex or RGB).<br>
+> Useful for building NHL-related colorful product.
+> NHL flavor of https://www.npmjs.com/package/nba-go
+> Thank you Homer Chen, xxhomey19
 
 [![Build Status](https://travis-ci.org/xxhomey19/nba-color.svg?branch=master)](https://travis-ci.org/xxhomey19/nba-color)
 [![Coverage Status](https://coveralls.io/repos/github/xxhomey19/nba-color/badge.svg)](https://coveralls.io/github/xxhomey19/nba-color)
