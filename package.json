@@ -1,15 +1,15 @@
 {
-  "name": "nba-color",
-  "description": "Get NBA team's color.",
-  "author": "xxhomey19",
+  "name": "nhl-color",
+  "description": "Get NHL team's color.",
+  "author": "sbahr001",
   "license": "MIT",
-  "homepage": "https://github.com/xxhomey19/nba-color#readme",
+  "homepage": "https://github.com/sbahr001/nhl-color#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xxhomey19/nba-color/tree/master"
+    "url": "https://github.com/sbahr001/nhl-color/tree/master"
   },
   "bugs": {
-    "url": "https://github.com/xxhomey19/nba-color/issues"
+    "url": "https://github.com/sbahr001/nhl-color/issues"
   },
   "version": "1.3.0",
   "main": "lib/index.js",
