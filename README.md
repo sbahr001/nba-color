@@ -1,7 +1,7 @@
 # NHL Color
 > Get all NHL team's color code (Hex or RGB).<br>
-> Useful for building NHL-related colorful product.
-> NHL flavor of https://www.npmjs.com/package/nba-go
+> Useful for building NHL-related colorful product.<br>
+> NHL flavor of https://www.npmjs.com/package/nba-go <br>
 > Thank you Homer Chen, xxhomey19
 
 [![Build Status](https://travis-ci.org/xxhomey19/nba-color.svg?branch=master)](https://travis-ci.org/xxhomey19/nba-color)
